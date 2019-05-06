@@ -1,3 +1,10 @@
+epics-base (3.15.6-1+frib2) unstable; urgency=medium
+
+  * NMU. Apply patch to libca to prevent incorrect zeroing out of
+    TLS handle
+
+ -- Bruno Martins <martins@frib.msu.edu>  Mon, 06 May 2019 09:41:28 -0400
+
 epics-base (3.15.6-1+frib1) unstable; urgency=medium
 
   * Add patches for MSI bugs lp:1810946 and lp:1810949
