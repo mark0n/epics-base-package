@@ -1,3 +1,9 @@
+epics-base (3.15.6-1+frib3) unstable; urgency=medium
+
+  * Apply patch that removes cacExitHandler()
+
+ -- Martin Konrad <konrad@frib.msu.edu>  Tue, 07 May 2019 09:19:57 -0400
+
 epics-base (3.15.6-1+frib2) unstable; urgency=medium
 
   * NMU. Apply patch to libca to prevent incorrect zeroing out of
